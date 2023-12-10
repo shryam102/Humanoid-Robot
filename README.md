@@ -19,7 +19,9 @@ This project involves building a humanoid robot with a movable head, two-plane h
 * RF modules (nRF24l01)
 * Servo motors
 * Dc motors (12V)
-* The robot frame and the remote control is made out of cardboard boxes
+* The robot frame and the remote control are made out of cardboard boxes
 
+## Videos 
+![humanoid](https://github.com/shryam102/Humanoid-Robot/assets/78613519/36d520f0-1b3e-48b9-9ee9-e2e917773a62)
 
 
